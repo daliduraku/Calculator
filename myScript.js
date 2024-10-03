@@ -31,3 +31,11 @@ function operate(operator, num1, num2){
         return result
     }
 }
+
+const buttons = document.querySelectorAll('.btn-number, .btn-operator');
+const display = document.querySelector('.display');
+
+numberBtn.addEventListener('click', function(){
+    let num1 = numberBtn
+
+})

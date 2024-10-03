@@ -8,6 +8,7 @@
 .display{
     width: 100%;
     background-color: darkGrey;
+    color: white;
     height: 50px;
     font-size: 48px;
     display: flex;
@@ -26,17 +27,21 @@ button{
 }
 
 .btn-number{
+    color: white;
     background-color: grey;
 }
 
 .btn-operator{
+    color: white;
     background-color: orange;
 }
 
 .btn-equals{
-    background-color: lightgreen;
+    color: white;
+    background-color: green;
 }
 
 .btn-clear{
-    background-color: rgba(255, 160, 122, 0.704);
+    color: white;
+    background-color: rgba(143, 36, 6, 0.704);
 }
